@@ -11,8 +11,6 @@ export const GlobalStyle = createGlobalStyle`
 
   html {
     font-size: 16px;
-    padding: 15px;
-    margin: 15px;
   }
 
   body{
